@@ -1,2 +1,2 @@
-# Reggie_Linear_R
+# Reggie Linear Regression
  
